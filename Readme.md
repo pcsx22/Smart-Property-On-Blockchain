@@ -1,5 +1,5 @@
 <h2>#ABOUT</h2>
-This is a rough hackish and poor implementation(lots of security issues) of smart property on blockchain. Multichain is used as a platform for providing underlying blockchain infrastrucutre for implementing smart property.<br/>This was solely written with the purpose to learn build blockchain based apps.
+This is a rough hackish and poor implementation(lots of security issues) of smart property on blockchain. Multichain is used as a platform for providing underlying blockchain infrastrucutre for implementing smart property.This was solely built with the purpose to learn build blockchain based apps.<br/><br/>
 
 Here smart property means not only storing the ownership data of the device in blockchain but also issuing cryptographic tokens for authentication of the real user. Smart devices store their ownership data in a blockchain based key-value store(which multichain calls as stream). Whoever can provide a valid signature for proving as a valid owner can access the device. Ownership can be changed if when a valid new transaction can be provided to the device with valid signature for proving the user own the address.
  
